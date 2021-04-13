@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## SILVAN - a 3D immersive research software designed for visualization and mensuration of LIDAR point clouds
 
+```
 You can use the [editor on GitHub](https://github.com/ljeasson/SILVAN_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
 
 ### Markdown
 
